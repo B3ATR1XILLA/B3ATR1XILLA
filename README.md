@@ -1,4 +1,4 @@
-## Hi there 👋
+## Current wip . Also so is my strawpage at the moment !!
 
 <!--
 **B3ATR1XILLA/B3ATR1XILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
