@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
+
+
+<img width="2048" height="320" alt="image" src="https://github.com/user-attachments/assets/a03d9a8d-6777-4ce5-943f-23ae89a9a604" />
