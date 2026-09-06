@@ -1,4 +1,5 @@
-## Current wip . Also, so is my strawpage at the moment !!
+<img width="2048" height="320" alt="image" src="https://github.com/user-attachments/assets/3508dc6e-2982-4a17-ad48-c0ff165992ec" />
+
 
 <!--
 **B3ATR1XILLA/B3ATR1XILLA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
